@@ -8,7 +8,7 @@
 </head>
 <body>
 	<p>
-		Hello
+		Today
 		<%=new java.util.Date()%></p>
 </body>
 </html>
